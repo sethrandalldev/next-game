@@ -1,0 +1,8 @@
+.teams-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.teams-container button {
+  margin: 5px;
+}
